@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gyt95&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=false" />  
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=gyt95&border=e4e2e2" />  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=flavsjr&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=false" />  
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=flavsjr&border=e4e2e2" />  
 </p>
 
 <div>
