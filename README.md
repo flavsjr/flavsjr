@@ -1,7 +1,6 @@
 ## 💫 About me:
-- 👋 Olá, sou o Flaviano!<br>
-entusiasta da segurança da informação, tenho 26 anos e sou formado em Tecnologia da Informação pela Estácio. Trabalho como desenvolvedor C# .NET à 5 anos. <br>
-Atualmente focado em desenvolvimento e manutenção de API's, microserviços e sistemas web.
+- 👋 Olá, sou o Flaviano! tenho 26 anos, moro em Goiânia/GO e sou formado em Tecnologia da Informação pela Estácio. Trabalho como desenvolvedor C# .NET à 5 anos.
+Atualmente trabalhando e focado no desenvolvimento e manutenções de API's, microserviços e sistemas web.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavianojr/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavsjr)
