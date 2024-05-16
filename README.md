@@ -1,41 +1,33 @@
-### Hi there 👋
+## 💫 About me:
+- 👋 Olá, sou o Flaviano!<br>
+entusiasta da segurança da informação, tenho 26 anos e sou formado em Tecnologia da Informação pela Estácio. Trabalho como desenvolvedor C# .NET à 5 anos. <br>
+Atualmente focado em desenvolvimento e manutenção de API's, microserviços e sistemas web.
 
-<p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=flavsjr&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=false" />  
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=flavsjr&border=e4e2e2" />  
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavianojr/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavsjr)
 
-<div>
-  <img width="63%" src='https://svgshare.com/i/_Tx.svg' title='' />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavsjr&layout=compact&hide=css,html&hide_border=true&card_width=250">
-</div>
+## 💻 Stacks:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=flavsjr.flavsjr" />
-  <!-- visitor-badge.glitch.me -->
-</p>
 
-<!-- 
-  Reference Links:
-  github-readme-stats.vercel.app 
-  github-readme-streak-stats.herokuapp.com
-  visitor-badge.glitch.me
 
-  Idea from: 
-  JonasJs
--->
 
-<!--
-**flavsjr/flavsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=flavsjr&theme=algolia&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=flavsjr&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flavsjr&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=flavsjr&icon=0&color=0)](https://visitcount.itsvg.in)
