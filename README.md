@@ -1,4 +1,4 @@
-<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050f2c&height=180&section=header&text=Flaviano+Junior&fontSize=30&fontColor=b5b8c7&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07194d&height=180&section=header&text=FLAVIANO+JUNIOR&fontSize=28&fontColor=c1c7c3&animation=twinkling&fontAlignY=35"/></a>
 
 ## 💫 About me:
 - 👋 Olá, sou o Flaviano! tenho 26 anos, moro em Goiânia/GO e sou formado em Tecnologia da Informação pela Estácio. Trabalho como desenvolvedor C# .NET à 5 anos.
