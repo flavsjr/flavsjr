@@ -1,8 +1,11 @@
 <a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050f2c&height=180&section=header&text=FLAVIANO+JUNIOR&fontSize=28&fontColor=c1c7c3&animation=twinkling&fontAlignY=35"/></a>
 
 ## 💫 About me:
-- 👋 Olá, sou o Flaviano! tenho 26 anos, moro em Goiânia/GO e sou formado em Tecnologia da Informação pela Estácio. Trabalho como desenvolvedor C# .NET à 5 anos.
-Atualmente trabalhando e focado no desenvolvimento e manutenções de API's, microserviços e sistemas web.
+- 👋 Olá, sou o Flaviano! Tenho 27 anos, moro em Goiânia/GO e sou formado em Tecnologia da Informação pela Estácio. Trabalho como desenvolvedor C# .NET há 6 anos, focado no desenvolvimento e manutenção de APIs, microserviços e sistemas web.
+
+- No meu dia a dia, utilizo tecnologias como .NET Core, C#, Dapper, Entity Framework, SQL Server e PostgreSQL para criar soluções performáticas e escaláveis. No front-end, tenho experiência com Angular, desenvolvendo aplicações web modernas e responsivas. Também aplico práticas de arquitetura limpa e padrões como CQRS e DDD para garantir qualidade e manutenibilidade no código.
+
+- Além do desenvolvimento, sou entusiasta da Segurança da Informação 🔐, sempre buscando aprender sobre pentest, análise de vulnerabilidades e hardening de aplicações. No meu tempo livre, gosto de explorar ferramentas e técnicas voltadas para segurança ofensiva e defensiva, aplicando esse conhecimento para desenvolver sistemas mais robustos e seguros.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavianojr/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavsjr)
